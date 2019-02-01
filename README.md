@@ -15,7 +15,7 @@ to your `composer.json` file:
 ```json
 {
     "require": {
-        "omnipay/bank": "~2.0"
+        "atolodas/omnipay-bank": "~2.0"
     }
 }
 ```
