@@ -1,5 +1,5 @@
 {
-    "name": "omnipay/bank",
+    "name": "atolodas/omnipay-bank",
     "type": "library",
     "description": "Bank (offline) payment for the Omnipay payment processing library",
     "keywords": [
