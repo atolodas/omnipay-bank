@@ -1,0 +1,35 @@
+{
+    "name": "omnipay/bank",
+    "type": "library",
+    "description": "Bank (offline) payment for the Omnipay payment processing library",
+    "keywords": [
+        "gateway",
+        "bank",
+        "merchant",
+        "omnipay",
+        "pay",
+        "payment"
+    ],
+    "homepage": "https://github.com/atolodas/omnipay-bank",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Etorona MB",
+            "email": "naujasdizainas.lt@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Omnipay\\Bank\\" : "src/" }
+    },
+    "require": {
+        "omnipay/common": "^2.0||^3.0"
+    },
+    "require-dev": {
+        "omnipay/tests": "^2.0||^3.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.0.x-dev"
+        }
+    }
+}
